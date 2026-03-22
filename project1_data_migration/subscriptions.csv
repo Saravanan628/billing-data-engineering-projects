@@ -1,0 +1,4 @@
+customer_id,plan,price
+101,premium,100
+102,basic,50
+103,,200

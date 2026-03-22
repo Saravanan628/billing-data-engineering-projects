@@ -1,0 +1,6 @@
+customer_id,usage_type,units,price_per_unit
+101,api_calls,1000,0.01
+101,storage,50,0.5
+102,api_calls,abc,0.01
+103,storage,30,
+104,api_calls,500,0.02
